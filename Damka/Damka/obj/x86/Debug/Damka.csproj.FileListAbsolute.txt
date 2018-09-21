@@ -1,0 +1,73 @@
+E:\Bet1\Project\MyProjects\Damka\Damka\bin\Debug\Damka.exe
+E:\Bet1\Project\MyProjects\Damka\Damka\bin\Debug\Damka.pdb
+E:\Bet1\Project\MyProjects\Damka\Damka\obj\x86\Debug\Damka.fDamka.resources
+E:\Bet1\Project\MyProjects\Damka\Damka\obj\x86\Debug\Damka.Properties.Resources.resources
+E:\Bet1\Project\MyProjects\Damka\Damka\obj\x86\Debug\Damka.csproj.GenerateResource.Cache
+E:\Bet1\Project\MyProjects\Damka\Damka\obj\x86\Debug\Damka.exe
+E:\Bet1\Project\MyProjects\Damka\Damka\obj\x86\Debug\Damka.pdb
+E:\Bet1\Project\MyProjects\Damka\Damka\obj\x86\Debug\Damka.fStartScreen.resources
+F:\תיקיה חדשה\Damka\Damka\obj\x86\Debug\Damka.exe
+F:\תיקיה חדשה\Damka\Damka\obj\x86\Debug\Damka.pdb
+F:\תיקיה חדשה\Damka\Damka\bin\Debug\Damka.exe
+F:\תיקיה חדשה\Damka\Damka\bin\Debug\Damka.pdb
+F:\תיקיה חדשה\Damka\Damka\obj\x86\Debug\Damka.fDamka.resources
+F:\תיקיה חדשה\Damka\Damka\obj\x86\Debug\Damka.Properties.Resources.resources
+F:\תיקיה חדשה\Damka\Damka\obj\x86\Debug\Damka.fStartScreen.resources
+F:\תיקיה חדשה\Damka\Damka\obj\x86\Debug\Damka.csproj.GenerateResource.Cache
+G:\תיקיה חדשה\Damka\Damka\bin\Debug\Damka.exe
+G:\תיקיה חדשה\Damka\Damka\bin\Debug\Damka.pdb
+G:\תיקיה חדשה\Damka\Damka\obj\x86\Debug\Damka.csprojResolveAssemblyReference.cache
+G:\תיקיה חדשה\Damka\Damka\obj\x86\Debug\Damka.fDamka.resources
+G:\תיקיה חדשה\Damka\Damka\obj\x86\Debug\Damka.Properties.Resources.resources
+G:\תיקיה חדשה\Damka\Damka\obj\x86\Debug\Damka.fStartScreen.resources
+G:\תיקיה חדשה\Damka\Damka\obj\x86\Debug\Damka.csproj.GenerateResource.Cache
+G:\תיקיה חדשה\Damka\Damka\obj\x86\Debug\Damka.csproj.CoreCompileInputs.cache
+G:\תיקיה חדשה\Damka\Damka\obj\x86\Debug\Damka.exe
+G:\תיקיה חדשה\Damka\Damka\obj\x86\Debug\Damka.pdb
+G:\תיקיה חדשה\Damka\Damka\obj\x86\Debug\Damka.fAbout.resources
+F:\תיקיה חדשה\Damka\Damka\obj\x86\Debug\Damka.csprojResolveAssemblyReference.cache
+F:\תיקיה חדשה\Damka\Damka\obj\x86\Debug\Damka.fAbout.resources
+C:\Users\moish\Desktop\Damka\Damka\bin\Debug\Damka.exe
+C:\Users\moish\Desktop\Damka\Damka\bin\Debug\Damka.pdb
+C:\Users\moish\Desktop\Damka\Damka\obj\x86\Debug\Damka.csprojResolveAssemblyReference.cache
+C:\Users\moish\Desktop\Damka\Damka\obj\x86\Debug\Damka.fAbout.resources
+C:\Users\moish\Desktop\Damka\Damka\obj\x86\Debug\Damka.fDamka.resources
+C:\Users\moish\Desktop\Damka\Damka\obj\x86\Debug\Damka.Properties.Resources.resources
+C:\Users\moish\Desktop\Damka\Damka\obj\x86\Debug\Damka.fStartScreen.resources
+C:\Users\moish\Desktop\Damka\Damka\obj\x86\Debug\Damka.csproj.GenerateResource.Cache
+C:\Users\moish\Desktop\Damka\Damka\obj\x86\Debug\Damka.csproj.CoreCompileInputs.cache
+C:\Users\moish\Desktop\Damka\Damka\obj\x86\Debug\Damka.exe
+C:\Users\moish\Desktop\Damka\Damka\obj\x86\Debug\Damka.pdb
+E:\Bet1\Project\MyProjects\Damka\Damka\obj\x86\Debug\Damka.csprojResolveAssemblyReference.cache
+E:\Bet1\Project\MyProjects\Damka\Damka\obj\x86\Debug\Damka.fAbout.resources
+F:\Damka\Damka\obj\x86\Debug\Damka.exe
+F:\Damka\Damka\obj\x86\Debug\Damka.pdb
+F:\Damka\Damka\bin\Debug\Damka.exe
+F:\Damka\Damka\bin\Debug\Damka.pdb
+F:\Damka\Damka\obj\x86\Debug\Damka.csprojResolveAssemblyReference.cache
+F:\Damka\Damka\obj\x86\Debug\Damka.fAbout.resources
+F:\Damka\Damka\obj\x86\Debug\Damka.fDamka.resources
+F:\Damka\Damka\obj\x86\Debug\Damka.Properties.Resources.resources
+F:\Damka\Damka\obj\x86\Debug\Damka.fStartScreen.resources
+F:\Damka\Damka\obj\x86\Debug\Damka.csproj.GenerateResource.Cache
+F:\Damka - עותק\Damka\obj\x86\Debug\Damka.exe
+F:\Damka - עותק\Damka\obj\x86\Debug\Damka.pdb
+F:\Damka - עותק\Damka\bin\Debug\Damka.exe
+F:\Damka - עותק\Damka\bin\Debug\Damka.pdb
+F:\Damka - עותק\Damka\obj\x86\Debug\Damka.csprojResolveAssemblyReference.cache
+F:\Damka - עותק\Damka\obj\x86\Debug\Damka.fAbout.resources
+F:\Damka - עותק\Damka\obj\x86\Debug\Damka.fDamka.resources
+F:\Damka - עותק\Damka\obj\x86\Debug\Damka.Properties.Resources.resources
+F:\Damka - עותק\Damka\obj\x86\Debug\Damka.fStartScreen.resources
+F:\Damka - עותק\Damka\obj\x86\Debug\Damka.csproj.GenerateResource.Cache
+G:\Damka\Damka\bin\Debug\Damka.exe
+G:\Damka\Damka\bin\Debug\Damka.pdb
+G:\Damka\Damka\obj\x86\Debug\Damka.csprojResolveAssemblyReference.cache
+G:\Damka\Damka\obj\x86\Debug\Damka.fAbout.resources
+G:\Damka\Damka\obj\x86\Debug\Damka.fDamka.resources
+G:\Damka\Damka\obj\x86\Debug\Damka.Properties.Resources.resources
+G:\Damka\Damka\obj\x86\Debug\Damka.fStartScreen.resources
+G:\Damka\Damka\obj\x86\Debug\Damka.csproj.GenerateResource.Cache
+G:\Damka\Damka\obj\x86\Debug\Damka.csproj.CoreCompileInputs.cache
+G:\Damka\Damka\obj\x86\Debug\Damka.exe
+G:\Damka\Damka\obj\x86\Debug\Damka.pdb
